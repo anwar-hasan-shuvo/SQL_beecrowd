@@ -1,0 +1,1 @@
+Select Id, Name from Products where price < 10 or price > 100;
